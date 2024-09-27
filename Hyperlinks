@@ -3,7 +3,7 @@
   <title>Hyperlinks</titlte>
 	<body>	
 		<h1>De opdracht</h1> 
-		<p>Maak ook dit document zo nauwkeurig mogelijk na in HTML. Zorg er voor dat er een link naar de <a hiref=vorige opdracht staat.<p> 
+		<p>Maak ook dit document zo nauwkeurig mogelijk na in HTML. Zorg er voor dat er een link naar de <a hiref=https://cool-painter.github.io/>vorige opdracht</a> staat.<p> 
 		<h2>Jouw favoriete webpagina </h2>
 		<p>Je hebt ongetwijfeld een voor jouw heel dierbare website die in deze opdracht niet kan ontbreken.</p> 
 		<h3>Contact</h3> 
