@@ -1,0 +1,14 @@
+<!DOCRYPE html>
+<html lang="en">
+  <title>Hyperlinks</titlte>
+	<body>	
+		<h1>De opdracht</h1> 
+		<p>Maak ook dit document zo nauwkeurig mogelijk na in HTML. Zorg er voor dat er een link naar de <a hiref=vorige opdracht staat.<p> 
+		<h2>Jouw favoriete webpagina </h2>
+		<p>Je hebt ongetwijfeld een voor jouw heel dierbare website die in deze opdracht niet kan ontbreken.</p> 
+		<h3>Contact</h3> 
+		<p>Mocht een lezer van deze pagina jou willen bereiken, dan kan hij of zij 
+			jou altijd mailen. <br>Mocht een lezer met iemand anders contact willen opnemen, dan kan dat via iemandanders@aarde.com. 
+		</p>
+	</body>
+<html> 
