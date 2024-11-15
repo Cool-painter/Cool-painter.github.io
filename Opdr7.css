@@ -2,3 +2,33 @@
    width: 900px;
    margin: auto;
 }
+
+header {
+   margin: 10px;
+   padding: 10px;
+   border: 2px solid black;
+}
+
+footer {
+   margin: 10px;
+   padding: 10px;
+   border: 2px solid black;
+}
+
+.image {
+   margin: 10px;
+   padding: 10px;
+   border: 2px solid black;
+}
+
+article {
+   margin: 10px;
+   padding: 10px;
+   border: 2px solid black;
+}
+
+.zijbalk {
+   margin: 10px;
+   padding: 10px;
+   border: 2px solid black;
+}
