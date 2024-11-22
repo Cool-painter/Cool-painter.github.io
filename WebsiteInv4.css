@@ -21,6 +21,7 @@ h1 {
 }
 
 .verwijzing {
-  border: 2px 2px 2px 2px
-  
+  border: 2px 2px 2px 2px;
+  display: flexbox;
+  justify-content: flex-end;
 }
