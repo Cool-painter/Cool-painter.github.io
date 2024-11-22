@@ -25,7 +25,7 @@ h3 {
 }
 
 .verwijzing {
-  border: 2px 2px 2px 2px;
+  border: 2px 2px 2px 2px solid black;
   display: flexbox;
   justify-content: flex-end;
 }
