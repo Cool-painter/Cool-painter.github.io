@@ -24,6 +24,10 @@ h3 {
   justify-content: center;
 }
 
+.snelle ideeën {
+   margin: 15px auto 5px auto;
+}
+
 .verwijzing {
   border: 2px 2px 2px 2px solid black;
   display: flexbox;
