@@ -33,10 +33,18 @@ h3 {
    justify-content: center;
    border: 2px solid black;
    text-align: center;
+   
 }
 
 .snelle ideeën {
    margin: 15px auto 5px auto;
+}
+
+.imgae2{  
+   display: flex;
+   justify-content: center;
+   border: 2px solid black;
+   text-align: center;
 }
 
 .verwijzing {
