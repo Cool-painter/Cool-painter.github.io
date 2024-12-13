@@ -33,7 +33,6 @@ h3 {
 }
 
 .image1 {
-   display: flex;
    justify-content: center;
    border: 2px solid black;
    text-align: center;
@@ -41,7 +40,6 @@ h3 {
 }
 
 .balk1{
-   display: flex;
    border: 2px solid black;
 }
 
@@ -50,14 +48,12 @@ h3 {
 }
 
 .imgae2{  
-   display: flex;
    justify-content: center;
    border: 2px solid black;
    text-align: center;
 }
 
 .meer{
-   display: flex;
    justify-content: flex end;
    align-items: center;
 }
