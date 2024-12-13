@@ -40,6 +40,11 @@ h3 {
    padding: 20px auto 20px auto;
 }
 
+.balk1{
+   display: flex;
+   border: 2px solid black;
+}
+
 .snelle ideeën {
    margin: 15px auto 5px auto;
 }
