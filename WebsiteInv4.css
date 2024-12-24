@@ -41,6 +41,7 @@ h3 {
 
 .balk1 {
    border: 2px solid black;
+   text-align: center;
 }
 
 .snelle ideeën {
@@ -62,6 +63,11 @@ h3 {
    boarder: 2px solid black;
    text-aligne: center;
    
+}
+
+.balk2 {
+   border: 2px solid black;
+   text-align: center;
 }
 
 .verwijzing {
