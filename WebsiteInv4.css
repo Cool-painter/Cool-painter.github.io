@@ -62,7 +62,7 @@ h3 {
 .image3 {
    boarder: 2px solid black;
    text-aligne: center;
-   
+   justify-content: flex-end;
 }
 
 .balk2 {
