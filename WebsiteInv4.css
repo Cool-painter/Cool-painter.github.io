@@ -3,7 +3,7 @@
 }
 
 .body { 
-   baksground-color: #cccccc;
+   baksground-color: #CCCCCC;
 }
 
 .wrapper {
@@ -13,6 +13,7 @@
 
 .hoofdcontainer {
    display: flex;
+   border: 4px red;
    }
 
 h1 {
