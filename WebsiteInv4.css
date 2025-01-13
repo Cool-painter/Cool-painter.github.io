@@ -62,8 +62,7 @@ h3 {
 
 .meer {
    display: flex;
-   align-self: flex end;
-   align-items: center; 
+   justify-content: flex-end;
 }
 
 .flex1 {
