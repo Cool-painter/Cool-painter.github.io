@@ -63,6 +63,7 @@ h3 {
 
 .flex1 {
    display: flex;
+   border: 2px red;
 }
 
 .image3 {
