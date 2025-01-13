@@ -73,9 +73,14 @@ h3 {
 }
 
 .gaverdermetbouwen {
-  align-self: flex-end;
+  
 }
 
+.image4 {
+   border: 2px solid black;
+   text-align: center;
+}
+   
 .balk2 {
    border: 2px solid black;
    text-align: center;
