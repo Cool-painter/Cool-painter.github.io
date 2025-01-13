@@ -73,7 +73,6 @@ h3 {
 .image3 {
    border: 2px solid black;
    text-align: center;
-   display: flex;
    justify-content: flex-end;
 }
 
@@ -84,7 +83,6 @@ h3 {
 .image4 {
    border: 2px solid black;
    text-align: center;
-   display: flex;
 }
    
 .balk2 {
