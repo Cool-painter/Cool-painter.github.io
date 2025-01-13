@@ -56,9 +56,14 @@ h3 {
    text-align: center;
 }
 
+.flex0 {
+   display: flex;
+}
+
 .meer {
+   display: flex;
    align-self: flex end;
-   align-items: center;
+   align-items: center; 
 }
 
 .flex1 {
