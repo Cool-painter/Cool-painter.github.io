@@ -72,6 +72,7 @@ h3 {
 .image3 {
    border: 2px solid black;
    text-align: center;
+   flex-grow: 4;
 }
 
 .gaverdermetbouwen {
@@ -81,6 +82,7 @@ h3 {
 .image4 {
    border: 2px solid black;
    text-align: center;
+   flex-grow: 4;
 }
    
 .balk2 {
