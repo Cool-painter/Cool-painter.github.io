@@ -57,10 +57,11 @@ h3 {
 
 .flex0 {
    display: flex;
+   justify-content: flex-end;
 }
 
 .meer {
-   justify-content: flex-end;
+   
 }
 
 .flex1 {
