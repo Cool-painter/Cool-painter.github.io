@@ -44,7 +44,7 @@ h3 {
 .balk1 {
    border: 2px solid black;
    text-align: center;
-   height: 10px;
+   height: 20px;
    background-color: #607466;
 }
 
@@ -95,6 +95,7 @@ h3 {
 .balk2 {
    border: 2px solid black;
    text-align: center;
+   height: 20px;
    background-color: #607466;
 }
 
