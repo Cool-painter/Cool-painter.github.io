@@ -71,7 +71,7 @@ h3 {
    justify-content: center;
    border: 2px solid black;
    text-align: center;
-   height: 200px;
+   height: 300px;
 }
 
 .flex0 {
@@ -93,7 +93,7 @@ h3 {
    border: 2px solid black;
    text-align: center;
    flex-grow: 4;
-   height: 100px;
+   height: 150px;
    margin: 10px 10px 0px 0px;
 }
 
@@ -105,7 +105,7 @@ h3 {
    border: 2px solid black;
    text-align: center;
    flex-grow: 4;
-   height: 100px;
+   height: 150px;
    margin: 10px 0px 0px 10px;
 }
    
