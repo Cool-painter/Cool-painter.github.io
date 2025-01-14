@@ -66,12 +66,12 @@ h3 {
 .flex1 {
    display: flex;
    border: 2px red;
+   justify-content: space-between;
 }
 
 .image3 {
    border: 2px solid black;
    text-align: center;
-   justify-content: space-between;
 }
 
 .gaverdermetbouwen {
@@ -81,7 +81,6 @@ h3 {
 .image4 {
    border: 2px solid black;
    text-align: center;
-   justify-content: space-between;
 }
    
 .balk2 {
