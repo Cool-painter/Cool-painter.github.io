@@ -20,6 +20,7 @@
    .flex1 {
    display: flex;
    justify-content: space-between;
+   flex-direction: row-reverse;
 }
    .image3 {
    border: 2px solid black;
