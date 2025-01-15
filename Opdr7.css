@@ -9,6 +9,18 @@ header {
    border: 2px solid black;
 }
 
+.flex1 {
+   display:flex;
+   justify-content: space-between;
+}
+
+.flex1.1 {
+   display:flex;
+   justify-content: space-between;
+   flex-direction: column;
+}
+   
+
 footer {
    margin: 10px;
    padding: 10px;
