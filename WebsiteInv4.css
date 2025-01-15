@@ -148,6 +148,39 @@ h3 {
 }
 
 @media only screen and (min-width: 768px) {
+   .wrapper {
+     width: 200px;
+     margin: auto;
+}
+
+   
+   .flex-1 {
+      display: flex;
+      justify-content: space-between;
+}
+
+   .flex1 {
+      display: flex;
+      flex-direction: column;   
+}
+
+   .image3 {
+      border: 2px solid black;
+      text-align: center;
+      flex-grow: 4;
+      height: 200px;
+      margin: 0px;
+}
+
+   .image4 {
+      border: 2px solid black;
+      text-align: center;
+      flex-grow: 4;
+      height: 200px;
+      margin: 10px 0px 0px 10px;
+}
+   
+
    
  
 }
