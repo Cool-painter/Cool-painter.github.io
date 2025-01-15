@@ -55,7 +55,7 @@ h3 {
 }
 
 .snelle ideeën {
-   margin: 20px auto 5px auto;
+   margin: 20px 0px 5px 0px;
 }
 
 .image2 {  
@@ -84,7 +84,7 @@ h3 {
    text-align: center;
    flex-grow: 4;
    height: 200px;
-   margin: 0px;
+   margin: 10px 0px 0px 0px;
 }
 
 .gaverdermetbouwen {
@@ -96,7 +96,7 @@ h3 {
    text-align: center;
    flex-grow: 4;
    height: 200px;
-   margin: 0px;
+   margin: 10px 0px 0px 0px;
 }
    
 .balk2 {
@@ -166,7 +166,7 @@ h3 {
       text-align: center;
       flex-grow: 4;
       height: 200px;
-      margin: 0px;
+      margin: 10px 0px 10px 0px;
 }
 
    .image4 {
