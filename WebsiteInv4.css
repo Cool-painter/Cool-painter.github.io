@@ -9,13 +9,31 @@
 }
 
 @media only screen and (min-width: 600px) {
- .flex0 {
+ .wrapper {
+  width: 700px;
+  margin: auto;
+}
+   .flex0 {
    display: flex;
    justify-content: flex-end;
 }
    .flex1 {
    display: flex;
    justify-content: space-between;
+}
+   .image3 {
+   border: 2px solid black;
+   text-align: center;
+   flex-grow: 4;
+   height: 200px;
+   margin: 10px 10px 0px 0px;
+}   
+   .image4 {
+   border: 2px solid black;
+   text-align: center;
+   flex-grow: 4;
+   height: 200px;
+   margin: 10px 0px 0px 10px;
 }
    
 }
