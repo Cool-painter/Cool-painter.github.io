@@ -145,13 +145,9 @@ h3 {
 }
 
 @media only screen and (min-width: 768px) {
-   .wrapper {
-     width: 20px;
-     margin: auto;
-}
-
+ 
    .legoshare {
-     width: 400px;
+     width: max;
      margin: auto;
      border: 2px solid black;
      padding: 10px auto;
