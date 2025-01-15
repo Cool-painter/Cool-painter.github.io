@@ -150,6 +150,16 @@ h3 {
      margin: auto;
 }
 
+   .legoshare {
+     width: 400px;
+     margin: auto;
+     border: 2px solid black;
+     padding: 10px auto;
+     display: flex; 
+     justify-content: center;
+      background-color: #02111B;
+}
+
    
    .flex-2 {
       display: flex;
