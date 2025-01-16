@@ -63,6 +63,7 @@ h3 {
 .profiel:hover { 
   background-color: #ddd;
   color: black;
+  text-decoration: underline;
 }
 
 .snelleideeën {
@@ -92,6 +93,7 @@ h3 {
   color: black;
   border: 2px solid black;
   border-radius: 5px;
+  text-decoration: underline;
 }
 
 .flex1 {
@@ -117,6 +119,7 @@ h3 {
   color: black;
   border: 2px solid black;
   border-radius: 5px;
+  text-decoration: underline;
 }
 
 .image4 {
