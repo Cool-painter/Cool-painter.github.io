@@ -64,6 +64,7 @@ h3 {
   background-color: #ddd;
   color: black;
   text-decoration: underline;
+  padding: 0px 2px;
 }
 
 .snelleideeën {
@@ -85,6 +86,7 @@ h3 {
 
 .meer {
    margin: 0px 10px 10px 0px;
+   padding: 0px 2px;
 }
    
 
@@ -112,6 +114,7 @@ h3 {
 
 .gaverdermetbouwen {
   margin: 0px 10px 10px 0px;
+  padding: 0px 2px;
 }
 
 .gaverdermetbouwen:hover { 
