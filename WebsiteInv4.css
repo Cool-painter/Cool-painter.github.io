@@ -30,6 +30,7 @@ h3 {
 
 .legoshare {
   width: max;
+  height: 80px;
   margin: auto;
   border: 2px solid black;
   padding: 10px auto;
@@ -53,6 +54,15 @@ h3 {
    height: 40px;
    background-color: #607466;
    overflow: hidden;
+}
+
+.flex-3 {
+   display: flex;
+   justify-content: flex-end;
+}
+
+.profiel {
+   
 }
 
 .snelle ideeën {
