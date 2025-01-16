@@ -83,7 +83,7 @@ h3 {
    justify-content: flex-end;
 }
 
-.meer :hover { 
+.meer:hover { 
   background-color: #ddd;
   color: black;
 }
