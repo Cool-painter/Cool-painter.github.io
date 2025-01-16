@@ -52,6 +52,7 @@ h3 {
    text-align: center;
    height: 40px;
    background-color: #607466;
+   overflow: hidden;
 }
 
 .snelle ideeën {
