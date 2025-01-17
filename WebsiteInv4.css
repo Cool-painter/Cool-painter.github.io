@@ -142,6 +142,14 @@ h3 {
    text-align: center;
    height: 40px;
    background-color: #607466;
+   display: flex;
+   justify-content: flex-start;
+   flex-direction: column;
+}
+
+.infolink: hover {
+   background-color: #ddd;
+   text-decoration: underline;
 }
 
 .verwijzing {
