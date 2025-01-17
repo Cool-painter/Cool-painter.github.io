@@ -59,6 +59,10 @@ h3 {
    justify-content: flex-start;
 }
 
+.home {
+   padding: 0px 2px;
+}
+
 .home: hover {
   background-color: #ddd;
   color: black;
