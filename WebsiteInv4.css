@@ -177,7 +177,7 @@ h3 {
    flex-direction: column;
 }
 
-.infolink: hover {
+.infolink:hover {
    background-color: #ddd;
    text-decoration: underline;
 }
