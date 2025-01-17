@@ -59,14 +59,22 @@ h3 {
    justify-content: flex-start;
 }
 
+.home: hover {
+  background-color: #ddd;
+  color: black;
+  /*text-decoration: underline;*/
+  padding: 0px 2px;
+}
+
 .profiel { 
    margin-left: auto;
+   padding: 0px 2px;
 }
 
 .profiel:hover { 
   background-color: #ddd;
   color: black;
-  text-decoration: underline;
+  /*text-decoration: underline;*/
   padding: 0px 2px;
 }
 
@@ -96,7 +104,7 @@ h3 {
 .meer:hover { 
   background-color: #ddd;
   color: black;
-  border: 2px solid black;
+  /*border: 2px solid black;*/
   border-radius: 5px;
   text-decoration: underline;
 }
@@ -123,7 +131,7 @@ h3 {
 .gaverdermetbouwen:hover { 
   background-color: #ddd;
   color: black;
-  border: 2px solid black;
+  /*border: 2px solid black;*/
   border-radius: 5px;
   text-decoration: underline;
 }
